@@ -1,0 +1,15 @@
+p
+{
+  text-decoration: underline;
+}
+
+div
+{
+  border: 3px solid #82e39f;
+  margin-bottom: 25px;
+}
+
+.subtitle
+{
+  font-style: italic;
+}
